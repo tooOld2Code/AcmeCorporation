@@ -21,7 +21,9 @@ menu:
       url: /contact
       weight: 2
 params:
-  color: #71B170
+  logo: image/logo.png
+  logo_small: image/logo.png
+  color: "#71B170"
   copyright: "Copyright &copy; 2020 Acme Corporation. All rights reserved."
   footer:
     - title: About
