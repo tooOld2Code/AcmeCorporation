@@ -1,4 +1,33 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Acme Corporation
 theme: github.com/hugoinaction/Eclectic
+author:
+  facebook: "https://www.facebook.com/example"
+  twitter: "https://twitter.com/example/"
+  email: "contact@example.org"
+  name: "Acme Corporation"
+  location: New York
+  phone: 604-589-2168
+  hours: "**Mon-Fri:** 9:00AM - 5:00PM PT"
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 1
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: 2
+params:
+  color: #71B170
+  copyright: "Copyright &copy; 2020 Acme Corporation. All rights reserved."
+  footer:
+    - title: About
+      content: Acme Corporation is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles. We shape the world. You live in it.
+    - title: Recent Blog Posts
+      recents: blog
+      recentCount: 7
+    - title: Contact Us
+      contact: true
