@@ -2,6 +2,7 @@ baseURL: http://example.org/
 languageCode: en-us
 title: Acme Corporation
 theme: github.com/hugoinaction/Eclectic
+publishDir: docs
 author:
   facebook: "https://www.facebook.com/example"
   twitter: "https://twitter.com/example/"
