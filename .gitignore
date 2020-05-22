@@ -1,4 +1,5 @@
 ### general excludes
+public/*
 
 ### my personal play/test/etc files
 *.test.py
