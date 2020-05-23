@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: //tooold2code.github.io/AcmeCorporation/
 languageCode: en-us
 title: Acme Corporation
 theme: github.com/devcows/hugo-universal-theme
@@ -23,8 +23,8 @@ menu:
       weight: 2
 params:
   style: green
-  logo: /image/logo.png
-  logo_small: /image/logo.png
+  logo: image/logo.png
+  logo_small: image/logo.png
   about_us: Acme Corporation is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles. We shape the world. You live in it.
   recent_posts:
     enable: true 
