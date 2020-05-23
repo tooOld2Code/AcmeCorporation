@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acme Corporation</title>
-    <link>http://example.org/</link>
+    <link>//tooold2code.github.io/AcmeCorporation/</link>
     <description>Recent content on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//tooold2code.github.io/AcmeCorporation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/about/</link>
+      <link>//tooold2code.github.io/AcmeCorporation/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/about/</guid>
+      <guid>//tooold2code.github.io/AcmeCorporation/about/</guid>
       <description>Acme Corporation TM is the world&amp;rsquo;s leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles.
 We shape the world. You live in it.
 We provide smiles to hundreds of happy customers.
@@ -27,19 +27,19 @@ At Acme Corporation, we take pride in what we create. Our manufacturing process 
     
     <item>
       <title></title>
-      <link>http://example.org/contact/</link>
+      <link>//tooold2code.github.io/AcmeCorporation/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/contact/</guid>
+      <guid>//tooold2code.github.io/AcmeCorporation/contact/</guid>
       <description>Contact Us Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus id interdum velit laoreet id donec ultrices tincidunt arcu. Faucibus scelerisque eleifend donec pretium. Facilisi morbi tempus iaculis urna id volutpat lacus laoreet non. Rutrum quisque non tellus orci. Tincidunt dui ut ornare lectus sit amet est placerat in. Erat velit scelerisque in dictum non consectetur a erat nam.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/privacy/</link>
+      <link>//tooold2code.github.io/AcmeCorporation/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/privacy/</guid>
+      <guid>//tooold2code.github.io/AcmeCorporation/privacy/</guid>
       <description>Privacy Policy
 Last updated August 19, 2019
 Thank you for choosing to be part of our community at Acme Corporation TM (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice, or our practices with regards to your personal information, please contact us at contact@example.org.
@@ -48,10 +48,10 @@ When you visit our website &amp;ndash; https://hugoinaction.com, and use our ser
     
     <item>
       <title></title>
-      <link>http://example.org/terms/</link>
+      <link>//tooold2code.github.io/AcmeCorporation/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/terms/</guid>
+      <guid>//tooold2code.github.io/AcmeCorporation/terms/</guid>
       <description>Terms
 By accessing the website for Acme Corporation, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.</description>
     </item>

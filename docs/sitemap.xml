@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>//tooold2code.github.io/AcmeCorporation/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>//tooold2code.github.io/AcmeCorporation/contact/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/privacy/</loc>
+    <loc>//tooold2code.github.io/AcmeCorporation/privacy/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/terms/</loc>
+    <loc>//tooold2code.github.io/AcmeCorporation/terms/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>//tooold2code.github.io/AcmeCorporation/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>//tooold2code.github.io/AcmeCorporation/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>//tooold2code.github.io/AcmeCorporation/tags/</loc>
   </url>
   
 </urlset>
